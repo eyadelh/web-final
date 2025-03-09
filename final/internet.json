@@ -1,0 +1,40 @@
+{
+    "internet_in_japan": [
+      {
+        "year": 1990,
+        "title": "Early Internet Adoption",
+        "description": "Japan begins adopting the internet with academic and research networks."
+      },
+      {
+        "year": 1995,
+        "title": "Rise of Commercial Internet",
+        "description": "The first major ISPs (Internet Service Providers) emerge, and personal internet access starts becoming available to the public."
+      },
+      {
+        "year": 2000,
+        "title": "Broadband Expansion",
+        "description": "Japan introduces high-speed broadband connections, including ADSL and fiber-optic internet, leading to widespread adoption."
+      },
+      {
+        "year": 2008,
+        "title": "Mobile Internet Boom",
+        "description": "With the rise of smartphones, Japan experiences a surge in mobile internet usage, driven by 3G and later 4G LTE networks."
+      },
+      {
+        "year": 2015,
+        "title": "Fiber-Optic Dominance",
+        "description": "Fiber-optic internet becomes the standard in Japan, with some of the fastest internet speeds available globally."
+      },
+      {
+        "year": 2020,
+        "title": "5G Network Introduction",
+        "description": "Japan rolls out 5G networks, enhancing mobile connectivity, streaming, and IoT applications."
+      },
+      {
+        "year": 2024,
+        "title": "AI and Internet Evolution",
+        "description": "Japan integrates AI-driven technologies with the internet, expanding applications in automation, smart cities, and digital security."
+      }
+    ]
+  }
+  
